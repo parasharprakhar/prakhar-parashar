@@ -302,14 +302,12 @@ function OperatingRecord() {
               title="Systems"
               intro="Grouped by cluster, in the order they get used."
             />
-            <div className="grid grid-cols-1 border border-hairline sm:grid-cols-2 lg:grid-cols-4">
+            <div className="grid grid-cols-1 gap-px border border-hairline bg-hairline sm:grid-cols-2 lg:grid-cols-4">
               {SYSTEMS.map((group, i) => (
                 <Reveal
                   key={group.cluster}
                   delay={i * 60}
-                  className={`min-w-0 p-5 ${
-                    i > 0 ? "border-t border-hairline sm:[&:nth-child(-n+2)]:border-t-0" : ""
-                  } sm:[&:nth-child(2n)]:border-l lg:[&:nth-child(n)]:border-t-0 lg:[&:not(:first-child)]:border-l`}
+                  className="min-w-0 bg-background p-5"
                 >
                   <h3 className="label text-accent">{group.cluster}</h3>
                   <ul className="mt-4 flex flex-col gap-2">
