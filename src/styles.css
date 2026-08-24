@@ -30,6 +30,7 @@
   --data: oklch(0.507 0.037 169.8); /* #4C6E63 */
   --hairline: oklch(0.797 0.034 84.6); /* #C7BEA7 */
   --grain-opacity: 0.045;
+  color-scheme: light;
 }
 
 .dark {
@@ -42,6 +43,7 @@
   --data: oklch(0.708 0.048 168); /* #7FB2A2 */
   --hairline: oklch(0.28 0.011 72); /* #332E27 */
   --grain-opacity: 0.06;
+  color-scheme: dark;
 }
 
 @layer base {

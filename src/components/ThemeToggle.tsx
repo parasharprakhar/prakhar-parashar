@@ -10,7 +10,6 @@ function apply(mode: Mode) {
     window.matchMedia("(prefers-color-scheme: dark)").matches;
   const dark = mode === "dark" || (mode === "auto" && prefersDark);
   document.documentElement.classList.toggle("dark", dark);
-  document.documentElement.style.colorScheme = dark ? "dark" : "light";
 }
 
 export function ThemeToggle() {
