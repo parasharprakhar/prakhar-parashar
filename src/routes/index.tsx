@@ -343,15 +343,16 @@ function OperatingRecord() {
                     {rows.map((r) => (
                       <li
                         key={r.name}
-                        className="flex min-w-0 flex-wrap items-baseline justify-between gap-x-4 gap-y-1 border-b border-hairline py-3"
+                        className="grid min-w-0 grid-cols-1 items-baseline gap-x-4 gap-y-1 border-b border-hairline py-3 sm:grid-cols-[minmax(0,1fr)_auto]"
                       >
                         <span className="min-w-0 text-sm leading-snug">{r.name}</span>
-                        <span className="num shrink-0 font-mono text-[10px] uppercase tracking-[0.16em] text-muted-foreground">
+                        <span className="num font-mono text-[10px] uppercase tracking-[0.16em] text-muted-foreground sm:text-right">
                           {r.issuer} · {r.date}
                         </span>
                       </li>
                     ))}
                   </ul>
+
                 </Reveal>
               ))}
             </div>
