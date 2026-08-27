@@ -162,17 +162,17 @@ function OperatingRecord() {
               intro="Every figure below is an outcome, not an estimate — measured before and after the change went live."
             />
             <Reveal className="overflow-hidden border border-hairline">
-              <table className="w-full table-fixed border-collapse text-left">
+              <table className="w-full table-auto border-collapse text-left">
                 <caption className="sr-only">Measured operating outcomes</caption>
                 <thead>
                   <tr className="border-b border-hairline bg-surface/60">
-                    <th scope="col" className="label w-[28%] p-3 font-normal">
+                    <th scope="col" className="label p-3 font-normal">
                       Metric
                     </th>
-                    <th scope="col" className="label hidden w-[38%] p-3 font-normal sm:table-cell">
+                    <th scope="col" className="label hidden p-3 font-normal sm:table-cell">
                       Context
                     </th>
-                    <th scope="col" className="label w-[34%] p-3 text-right font-normal">
+                    <th scope="col" className="label p-3 text-right font-normal">
                       Reading
                     </th>
                   </tr>
