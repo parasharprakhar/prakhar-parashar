@@ -166,13 +166,13 @@ function OperatingRecord() {
                 <caption className="sr-only">Measured operating outcomes</caption>
                 <thead>
                   <tr className="border-b border-hairline bg-surface/60">
-                    <th scope="col" className="label w-[38%] p-3 font-normal">
+                    <th scope="col" className="label w-[32%] p-3 font-normal">
                       Metric
                     </th>
-                    <th scope="col" className="label hidden w-[36%] p-3 font-normal sm:table-cell">
+                    <th scope="col" className="label hidden w-[34%] p-3 font-normal sm:table-cell">
                       Context
                     </th>
-                    <th scope="col" className="label p-3 text-right font-normal">
+                    <th scope="col" className="label w-[34%] p-3 text-right font-normal">
                       Reading
                     </th>
                   </tr>
@@ -192,7 +192,7 @@ function OperatingRecord() {
                       <td className="hidden min-w-0 p-3 align-top text-xs leading-relaxed text-muted-foreground sm:table-cell">
                         {row.context}
                       </td>
-                      <td className="num p-3 align-top text-right font-mono text-sm leading-snug text-accent">
+                      <td className="num whitespace-nowrap p-3 align-top text-right font-mono text-sm leading-snug text-accent">
                         {row.reading}
                       </td>
                     </tr>
