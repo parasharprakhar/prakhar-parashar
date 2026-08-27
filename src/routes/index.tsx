@@ -166,10 +166,10 @@ function OperatingRecord() {
                 <caption className="sr-only">Measured operating outcomes</caption>
                 <thead>
                   <tr className="border-b border-hairline bg-surface/60">
-                    <th scope="col" className="label w-[32%] p-3 font-normal">
+                    <th scope="col" className="label w-[28%] p-3 font-normal">
                       Metric
                     </th>
-                    <th scope="col" className="label hidden w-[34%] p-3 font-normal sm:table-cell">
+                    <th scope="col" className="label hidden w-[38%] p-3 font-normal sm:table-cell">
                       Context
                     </th>
                     <th scope="col" className="label w-[34%] p-3 text-right font-normal">
