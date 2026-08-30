@@ -1,14 +1,18 @@
-# Welcome to your Lovable project
+# Prakhar's Operating Record
+
+Build a new personal portfolio site from scratch called "Operating Record" for Prakhar Parashar, Senior SAP & Intelligent Automation Leader. This is a brand-new project, not related to any other app.
 
 This project was built with [Lovable](https://lovable.dev).
 
+**Live app**: https://prakhar-parashar.lovable.app
+
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/6de34369-a851-45d5-a9a8-aca65992c5ae).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +24,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
