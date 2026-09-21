@@ -1,6 +1,6 @@
 export const LINKS = {
   cv: "https://prakharparashar.lovable.app/assets/Prakhar_Parashar_CV-_plRxiEH.docx",
-  email: "mailto:prakharparashar@aol.com",
+  email: "mailto:prakharparashar.ai@gmail.com",
   linkedin: "https://www.linkedin.com/in/prakharparashar",
   github: "https://github.com/parasharprakhar",
 } as const;
