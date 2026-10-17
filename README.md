@@ -1,59 +1,76 @@
-# Prakhar Parashar — Operating Record
+# Prakhar Parashar
+Senior Operations & Digital Transformation Leader — Bengaluru, India
 
-**Senior SAP & Intelligent Automation Leader — Digital Transformation, Global Business Services**
+[Portfolio](https://parasharprakhar.github.io/) • [LinkedIn](https://linkedin.com/in/prakharparashar)
 
-Live site: **[prakhar-parashar.lovable.app](https://prakhar-parashar.lovable.app)**
+---
 
-This repository holds the source for my personal portfolio, Operating Record — a single-page site framed as a compiled log of 13 years of transformation work in SAP operations, RPA, and intelligent automation.
+> "Build automation that reduces effort, increases trust, and scales with people." — Prakhar Parashar
 
-## About
+---
 
-High-impact transformation leader with 13+ years of experience, including 6+ years across SAP-driven operations, Global Business Services, and intelligent automation. I build RPA and AI-supported systems — Blue Prism, Decipher, Nanonets, GenAI — that hold up under real production load, and have led SAP S/4HANA migrations at global scale without missing a beat.
+## Snapshot
+- 13+ years in global operations, automation & analytics
+- Automation & Analytics Programme Lead | RPA Strategist | People Manager (17+)
+- GCC/GBS — Order Management & Customer Service (O2C) specialist
 
-**Highlights:**
+### Key metrics
+- 7 Blue Prism RPA initiatives — 100% on-time go-live
+- 99.8% cycle-time reduction (Return Analysis Automation)
+- 98.7% SAP S/4HANA migration success (zero revenue disruption)
+- CSAT improvement: 85% → 97%
+- Led and coached 17+ analysts across 12 countries
 
-| Metric | Result |
-|---|---|
-| Return cycle time | 2 days to 5 min |
-| Backorder exposure | $19M to under $1M |
-| SAP S/4HANA migration | 98.7% success, zero disruption |
+---
 
-## What's on the site
+## What I do
+I own business-side automation: identify high-value use cases, author PDD/SDD inputs, validate builds, lead UAT, govern KPI & ROI tracking, and drive adoption. I partner with engineering and CoE teams to deliver scalable, maintainable RPA and AI-supported solutions.
 
-The portfolio is organized as a set of records:
+Core focus areas:
+- Automation Strategy & Governance
+- RPA Programme Management (Blue Prism)
+- Analytics & KPI Governance (Power BI)
+- Process Insights (Celonis) & Automation ROI
+- AI-supported automation (Decipher, Nanonets) & Generative AI
+- SAP S/4HANA transformation for O2C
+- Global people leadership, change management, training
 
-- **00 Cover** — intro, headline stats, and contact links
-- **01 Ledger** — career timeline
-- **02 Record** — role-by-role experience
-- **03 Cases** — case studies (e.g. Zite — MindClear VocabPro, an internal wellness-and-vocabulary PWA shipped and live in production at Mann+Hummel)
-- **04 Systems** — tools and skills, grouped by cluster
-- **05 Attestations** — recommendations / references
-- **06 Access** — contact and links
+---
 
+## Featured projects
+- VocabPro — No-code GenAI terminology app to standardise OM/AR/AP/CS language across teams; improved onboarding and reduced validation errors.
+- Return Analysis Automation — reduced processing from days to minutes; delivered measurable FTE benefit and full business acceptance.
+- SAP S/4HANA Migration — Global POC for OM & CS; coordinated cross-stream testing and stabilized post-go-live operations quickly.
 
-  **Systems, grouped by cluster:**
+---
 
-  - **RPA & Automation** — RPA programme management, Blue Prism (Business SME + Dev), Power Automate, intelligent automation design, process re-engineering, automation ROI & FTE benefit
-  - **AI & GenAI** — AI-supported automation, Decipher & Nanonets, generative AI / prompt engineering, Claude AI / ChatGPT, no-code / GenAI app development
-  - **SAP & Process** — SAP S/4HANA transformation, Order-to-Cash (O2C), GBS (OM & CS), EDI systems, UAT lead, root cause analysis, Lean Six Sigma (Green Belt)
-  - **Leadership & Tools** — global people management (17+), cross-functional leadership, stakeholder & change management, KPI governance, Power BI, ServiceNow, Zendesk, Jira & Clockify, SharePoint
- 
+## Experience (short)
+**Senior Lead Analyst — Mann+Hummel Filters, Bengaluru** (Jul 2025 – Present)
+- End-to-end automation lifecycle ownership for global Order Management & Customer Service.
+- GCC Automation Ambassador and Automation CoE citizen-developer.
+- Led 7 Blue Prism initiatives, owned UAT and business validation, built executive KPI/ROI reporting.
 
-    ## Tech
+(Full CV and project artifacts available on request via LinkedIn DM.)
 
-    Built and deployed with [Lovable](https://lovable.dev). This repo stays in sync with the Lovable project — changes made in the Lovable editor are committed here automatically, and pushes to `main` sync back into Lovable.
+---
 
-    ### Run locally
+## Certifications & tools
+Blue Prism Developer · Lean Six Sigma (Green Belt) · Generative AI (Microsoft) · Build Your Own AI Agent (LinkedIn) · Power BI · Decipher · Nanonets · ServiceNow · Zendesk · SharePoint
 
-    Requires [Node.js](https://nodejs.org) and npm (install via [nvm](https://github.com/nvm-sh/nvm)).
+---
 
-    ```sh
-    git clone https://github.com/parasharprakhar/prakhar-parashar.git
-    cd prakhar-parashar
-    npm i
-    npm run dev
-    ```
+## Awards & recognition
+GBTS Automation Ambassador — Mann+Hummel (2025) · Best Team Award (2025) · Operational Excellence Awards (2022–2024)
 
-    ## Contact
+---
 
-    See the live site's [Access](https://prakhar-parashar.lovable.app/#access) section for email, LinkedIn, and GitHub links, or download the CV directly from the [homepage](https://prakhar-parashar.lovable.app).
+## Contact & collaboration
+I prefer professional outreach via LinkedIn. To connect or request detailed resume/project artifacts, please DM me on LinkedIn and include context for the request so I can respond faster.
+
+LinkedIn: https://linkedin.com/in/prakharparashar
+Portfolio: https://parasharprakhar.github.io/
+
+---
+
+## Security & privacy
+Sensitive internal metrics and detailed artefacts are available on request; not published here. Resume and internal project materials will be shared after an initial conversation via LinkedIn.
