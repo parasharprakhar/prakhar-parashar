@@ -1,76 +1,43 @@
-# Prakhar Parashar
-Senior Operations & Digital Transformation Leader — Bengaluru, India
+# Prakhar Parashar — Operating Record
 
-[Portfolio](https://parasharprakhar.github.io/) • [LinkedIn](https://linkedin.com/in/prakharparashar)
+**Senior SAP & Intelligent Automation Leader — Digital Transformation, Global Business Services**
 
----
+Live site: **[prakhar-parashar.lovable.app](https://prakhar-parashar.lovable.app)**
 
-> "Build automation that reduces effort, increases trust, and scales with people." — Prakhar Parashar
+This repository holds the source for my personal portfolio, Operating Record — a single-page site framed as a compiled log of 13 years of transformation work in SAP operations, RPA, and intelligent automation.
 
----
+## About
 
-## Snapshot
-- 13+ years in global operations, automation & analytics
-- Automation & Analytics Programme Lead | RPA Strategist | People Manager (17+)
-- GCC/GBS — Order Management & Customer Service (O2C) specialist
+High-impact transformation leader with 13+ years of experience, including 6+ years across SAP-driven operations, Global Business Services, and intelligent automation. I build RPA and AI-supported automation that improve process performance and create measurable outcomes.
 
-### Key metrics
-- 7 Blue Prism RPA initiatives — 100% on-time go-live
-- 99.8% cycle-time reduction (Return Analysis Automation)
-- 98.7% SAP S/4HANA migration success (zero revenue disruption)
-- CSAT improvement: 85% → 97%
-- Led and coached 17+ analysts across 12 countries
+**Highlights:**
 
----
+| Metric | Result |
+|---|---|
+| Return cycle time | 2 days to 5 min |
+| Backorder exposure | $19M to under $1M |
+| SAP S/4HANA migration | 98.7% success, zero disruption |
 
-## What I do
-I own business-side automation: identify high-value use cases, author PDD/SDD inputs, validate builds, lead UAT, govern KPI & ROI tracking, and drive adoption. I partner with engineering and CoE teams to deliver scalable, maintainable RPA and AI-supported solutions.
+**Download Resume:** [Prakhar Parashar.pdf](https://github.com/parasharprakhar/parasharprakhar/raw/main/Prakhar%20Parashar.pdf)
 
-Core focus areas:
-- Automation Strategy & Governance
-- RPA Programme Management (Blue Prism)
-- Analytics & KPI Governance (Power BI)
-- Process Insights (Celonis) & Automation ROI
-- AI-supported automation (Decipher, Nanonets) & Generative AI
-- SAP S/4HANA transformation for O2C
-- Global people leadership, change management, training
+## What's on the site
 
----
+The portfolio is organized as a set of records:
 
-## Featured projects
-- VocabPro — No-code GenAI terminology app to standardise OM/AR/AP/CS language across teams; improved onboarding and reduced validation errors.
-- Return Analysis Automation — reduced processing from days to minutes; delivered measurable FTE benefit and full business acceptance.
-- SAP S/4HANA Migration — Global POC for OM & CS; coordinated cross-stream testing and stabilized post-go-live operations quickly.
+- **00 Cover** — intro, headline stats, and contact links
+- **01 Ledger** — career timeline
+- **02 Record** — role-by-role experience
+- **03 Cases** — case studies and transformation outcomes
+- **04 Systems** — tools and skills, grouped by cluster
+- **05 Attestations** — recommendations / references
+- **06 Access** — contact and links
 
----
+## Tech
 
-## Experience (short)
-**Senior Lead Analyst — Mann+Hummel Filters, Bengaluru** (Jul 2025 – Present)
-- End-to-end automation lifecycle ownership for global Order Management & Customer Service.
-- GCC Automation Ambassador and Automation CoE citizen-developer.
-- Led 7 Blue Prism initiatives, owned UAT and business validation, built executive KPI/ROI reporting.
+Built and deployed with [Lovable](https://lovable.dev). This repo stays in sync with the Lovable project.
 
-(Full CV and project artifacts available on request via LinkedIn DM.)
+## Contact
 
----
-
-## Certifications & tools
-Blue Prism Developer · Lean Six Sigma (Green Belt) · Generative AI (Microsoft) · Build Your Own AI Agent (LinkedIn) · Power BI · Decipher · Nanonets · ServiceNow · Zendesk · SharePoint
-
----
-
-## Awards & recognition
-GBTS Automation Ambassador — Mann+Hummel (2025) · Best Team Award (2025) · Operational Excellence Awards (2022–2024)
-
----
-
-## Contact & collaboration
-I prefer professional outreach via LinkedIn. To connect or request detailed resume/project artifacts, please DM me on LinkedIn and include context for the request so I can respond faster.
+See the live site's Access section for LinkedIn, GitHub and resume links, or use the direct PDF above.
 
 LinkedIn: https://linkedin.com/in/prakharparashar
-Portfolio: https://parasharprakhar.github.io/
-
----
-
-## Security & privacy
-Sensitive internal metrics and detailed artefacts are available on request; not published here. Resume and internal project materials will be shared after an initial conversation via LinkedIn.
